@@ -1,2 +1,2 @@
-# API-prediction-using-Deep-Learning
-API enabled API Prediction using Deep Learning
+# AQI-prediction-using-Deep-Learning
+API enabled AQI Prediction using Deep Learning
